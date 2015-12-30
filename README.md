@@ -1,7 +1,7 @@
 SpreeClosureTree
 ================
 
-Introduction goes here.
+This extension changes the taxons flow to use the ```closure_tree``` gem instead ```awesome_nested_set```.
 
 Installation
 ------------
